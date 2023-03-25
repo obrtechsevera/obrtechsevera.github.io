@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+theme: Dinky
+
 # Name of your site (displayed in the header)
 name: Кинология Коми
 
